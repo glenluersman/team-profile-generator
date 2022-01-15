@@ -18,6 +18,8 @@
 
 https://watch.screencastify.com/v/0gCIW490Ix2qEc5L2soq
 
+![team-profile](https://user-images.githubusercontent.com/91103314/149604093-5b17693c-d657-424c-82c5-870401f3b9bf.PNG)
+
 ## License
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
